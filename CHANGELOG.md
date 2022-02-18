@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [v0.0.61-updated](https://github.com/databricks/terraform-databricks-aws-workspace/releases/tag/v0.0.61-updated) - 2022-02-18 18:46:16
+
+Adding support for custom tags
+
+## [v0.0.6-updated](https://github.com/databricks/terraform-databricks-aws-workspace/releases/tag/v0.0.6-updated) - 2022-01-31 19:31:20
+
+*No description*
+
 ## [v0.0.9](https://github.com/databricks/terraform-databricks-aws-workspace/releases/tag/v0.0.9) - 2022-01-31 14:48:49
 
 *No description*
